@@ -4,19 +4,15 @@
     font-family: Arial, sans-serif; 
     color: white;
 }
-h1{
-  
+h1{  
     width: 100%; 
     font-family:Arial, sans-serif; 
     border:60%; 
     font-size: 500%; 
     color: white; 
-    width: 100%; 
 }
-#login{
+h2{
     width: 100%;
-    text-align: right;
-}
-#table2{
-    
+    text-align: left;
+    font-family: Arial, sans-serif;
 }
